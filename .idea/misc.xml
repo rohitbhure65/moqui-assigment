@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectResources">
+    <resource url="http://moqui.org/xsd/email-eca-3.xsd" location="$PROJECT_DIR$/framework/xsd/email-eca-3.xsd" />
+    <resource url="http://moqui.org/xsd/entity-definition-2.1.xsd" location="$PROJECT_DIR$/framework/xsd/entity-definition-3.xsd" />
+    <resource url="http://moqui.org/xsd/entity-definition-3.xsd" location="$PROJECT_DIR$/framework/xsd/entity-definition-3.xsd" />
+    <resource url="http://moqui.org/xsd/entity-eca-3.xsd" location="$PROJECT_DIR$/framework/xsd/entity-eca-3.xsd" />
+    <resource url="http://moqui.org/xsd/moqui-conf-3.xsd" location="$PROJECT_DIR$/framework/xsd/moqui-conf-3.xsd" />
+    <resource url="http://moqui.org/xsd/rest-api-3.xsd" location="$PROJECT_DIR$/framework/xsd/rest-api-3.xsd" />
+    <resource url="http://moqui.org/xsd/service-definition-3.xsd" location="$PROJECT_DIR$/framework/xsd/service-definition-3.xsd" />
+    <resource url="http://moqui.org/xsd/service-eca-3.xsd" location="$PROJECT_DIR$/framework/xsd/service-eca-3.xsd" />
+    <resource url="http://moqui.org/xsd/xml-actions-3.xsd" location="$PROJECT_DIR$/framework/xsd/xml-actions-3.xsd" />
+    <resource url="http://moqui.org/xsd/xml-form-3.xsd" location="$PROJECT_DIR$/framework/xsd/xml-form-3.xsd" />
+    <resource url="http://moqui.org/xsd/xml-screen-3.xsd" location="$PROJECT_DIR$/framework/xsd/xml-screen-3.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
