@@ -1,41 +1,80 @@
-## Welcome to Moqui Framework
 
-[![license](https://img.shields.io/badge/license-CC0%201.0%20Universal-blue.svg)](https://github.com/moqui/moqui-framework/blob/master/LICENSE.md)
-[![build](https://travis-ci.org/moqui/moqui-framework.svg)](https://travis-ci.org/moqui/moqui-framework)
-[![release](https://img.shields.io/github/release/moqui/moqui-framework.svg)](https://github.com/moqui/moqui-framework/releases)
-[![commits since release](http://img.shields.io/github/commits-since/moqui/moqui-framework/v3.0.0.svg)](https://github.com/moqui/moqui-framework/commits/master)
-[![downloads](https://img.shields.io/github/downloads/moqui/moqui-framework/total.svg)](https://github.com/moqui/moqui-framework/releases)
-[![downloads](https://img.shields.io/github/downloads/moqui/moqui-framework/v3.0.0/total.svg)](https://github.com/moqui/moqui-framework/releases/tag/v3.0.0)
+# PARTY REST API
 
-[![Discourse Forum](https://img.shields.io/badge/moqui%20forum-discourse-blue.svg)](https://forum.moqui.org)
-[![Google Group](https://img.shields.io/badge/google%20group-moqui-blue.svg)](https://groups.google.com/d/forum/moqui)
-[![LinkedIn Group](https://img.shields.io/badge/linked%20in%20group-moqui-blue.svg)](https://www.linkedin.com/groups/4640689)
-[![Gitter Chat at https://gitter.im/moqui/moqui-framework](https://badges.gitter.im/moqui/moqui-framework.svg)](https://gitter.im/moqui/moqui-framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-moqui-blue.svg)](http://stackoverflow.com/questions/tagged/moqui)
+### 1. GET ALL PARTY
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395661/fetch_party_details_get_et85qc.png)
 
 
-For information about community infrastructure for code, discussions, support, etc see the Community Guide:
+### 2. CREATE A PARTY
 
-<https://www.moqui.org/docs/moqui/Community+Guide>
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395660/create_a_party_post_l16h33.png)
 
-For details about running and deploying Moqui see:
+### 3. GET A PARTY
 
-<https://www.moqui.org/docs/framework/Run+and+Deploy>
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395662/retrive_party_details_jybbbx.png)
 
-Note that a runtime directory is required for Moqui Framework to run, but is not included in the source repository. The
-Gradle get component, load, and run tasks will automatically add the default runtime (from the moqui-runtime repository).
+### 4. UPDATE A PARTY
 
-For information about the current and near future status of Moqui Framework
-see the [ReleaseNotes.md](https://github.com/moqui/moqui-framework/blob/master/ReleaseNotes.md) file.
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737396019/UPDATE_PARTY_lcp0hh.png)
 
-For an overview of features see:
+### 5. DELETE A PARTY
 
-<https://www.moqui.org/docs/framework/Framework+Features>
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395660/DELETE_A_PARTY_ziywlx.png)
 
-Get started with Moqui development quickly using the Tutorial at:
+#### =======================================
 
-<https://www.moqui.org/docs/framework/Quick+Tutorial>
+### 6. Add Contact Mechanism
 
-For comprehensive documentation of Moqui Framework see the wiki based documentation on moqui.org (*running on Moqui HiveMind*):
- 
-<https://www.moqui.org/m/docs/framework>
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395660/ADD_CONTACT_MECHANISM_POST_q1mv5q.png)
+
+### 7. Retrieve Contact Mechanisms
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395661/get_fetch_contact_mechanism_slv5yn.png)
+
+### 8. Update Contact Mechanism
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395662/put_update_contact_mechanism_sm7qzp.png)
+
+### 9. Delete Contact Mechanism
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395661/DELETE_CONTACT_MECHANISM_f9yegu.png)
+
+
+# PRODUCT REST API
+
+### 1. GET ALL PRODUCT
+
+![GET all product](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395101/get_all_products_data_me7df2.png)
+
+
+### 2. CREATE A PRODUCT
+
+![CREATE A PROUCT](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395101/create_post_a_product_ssnxam.png)
+
+### 3. GET A PRODUCT
+
+![GET A PROUDCT](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395101/create_post_a_product_ssnxam.png)
+
+### 4. UPDATE A PROUDCT
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395102/UPDATE_PRODUCT_vrhykl.png)
+
+### 5. DELETE A PRODUCT
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737395102/DELETE_PRODUCT_evg6ae.png)
+
+# REST API ORDER
+
+### 1. GET ALL ORDER
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737397657/get_fetch_orders_zvzhhv.png)
+
+### 2. CREATE A ORDER
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737397657/create_a_order_qwsmdz.png)
+
+### 3. UPDATE A ORDER
+
+![](https://res.cloudinary.com/dmuwerefm/image/upload/v1737397657/update_order_i2b7qr.png)
+
